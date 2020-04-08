@@ -39,10 +39,10 @@ float VolMVP[MAXPLAYERS + 1];
 public Plugin myinfo =
 {
 	name = "[CS:GO] Custom MVP Anthem",
-	author = "Kento",
-	version = "1.10",
+	author = "-=WhiteCrow=-",
+	version = "1.10.1",
 	description = "Custom MVP Anthem",
-	url = "https://github.com/rogeraabbccdd/csgo_mvp"
+	url = "https://github.com/Ishaan-Kumar/csgo-mvp-plugin"
 };
 
 public void OnPluginStart()
