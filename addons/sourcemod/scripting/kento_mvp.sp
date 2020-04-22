@@ -92,7 +92,7 @@ public void OnClientCookiesCached(int client)
 	{
 		VolMVP[client] = StringToFloat(scookie);
 	}
-	else if(StrEqual(scookie,""))	VolMVP[client] = 0.4;
+	else if(StrEqual(scookie,""))	VolMVP[client] = 0.1;
 }
 
 
